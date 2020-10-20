@@ -1,9 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Route } from 'react-router-dom';
 import MovieList from './pages/MovieList';
 import MovieDetail from './pages/MovieDetail';
+import Movie from './pages/Movie';
+import Nav from './components/Nav';
 
 function App() {
   return (

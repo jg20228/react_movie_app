@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import MovieForm from '../components/MovieForm';
 
 // 도라에몽 사진

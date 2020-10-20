@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import MovieForm from '../components/MovieForm';
 
 const MovieDetail = (props) => {
 
